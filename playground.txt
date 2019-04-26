@@ -7,3 +7,6 @@ BR2
 BR3
 modif master
 modif via l'interface web
+rebase1
+rebase2
+rebase3
