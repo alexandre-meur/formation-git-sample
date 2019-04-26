@@ -6,8 +6,4 @@ MODIF 1st branch
 BR2
 BR3
 modif master
-modif via l'interface web
-rebase1
-rebase2
-rebase3
-Test
+
